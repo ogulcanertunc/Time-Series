@@ -1,4 +1,4 @@
-# Ogulcan Ertunc - NLP Projects Portfolio
+# Ogulcan Ertunc - Time Series Projects Portfolio
 ---
 ## Info and Background
 
@@ -13,4 +13,4 @@ Time Series, which we can call the last exit before deep learning, forms the bas
 
 # Contents
 
-     1. [Introduction to Time Series ]() 
+     1. [Introduction to Time Series ](https://github.com/ogulcanertunc/Time-Series/tree/main/1_Introduction) 
