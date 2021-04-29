@@ -13,4 +13,4 @@ Time Series, which we can call the last exit before deep learning, forms the bas
 
 # Contents
 
-     1. [Introduction to Time Series ](https://github.com/ogulcanertunc/Time-Series/tree/main/1_Introduction) 
+1. [Introduction to Time Series](https://github.com/ogulcanertunc/Time-Series/tree/main/1_Introduction) 
