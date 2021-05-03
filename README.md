@@ -14,3 +14,4 @@ Time Series, which we can call the last exit before deep learning, forms the bas
 # Contents
 
 1. [Introduction to Time Series](https://github.com/ogulcanertunc/Time-Series/tree/main/1_Introduction) 
+2. [ARIMA and SARIMA Models](https://github.com/ogulcanertunc/Time-Series/tree/main/2nd%20Part%20ARIMA%20and%20SARIMA%20Models)
